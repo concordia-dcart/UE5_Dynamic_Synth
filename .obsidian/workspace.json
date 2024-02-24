@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9cafbb0059ff453f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cafbb0059ff453f",
+  "active": "9afe60d18ea67a2e",
   "lastOpenFiles": [
+    "Screenshots/FM Algo - Sheet1.png",
+    "Screenshots/SequencerGraph.png",
+    "Screenshots/Sequencer.png",
+    "Screenshots/OpInputs.png",
+    "Screenshots/OperatorGraph.png",
+    "Screenshots/ModMixerInputs.png",
+    "Screenshots/KickOperatorGraph.png",
+    "Screenshots/HHOperatorGraph.png",
+    "Screenshots/FMSynthSequencerFull.png",
+    "Screenshots/FMSynth.png",
+    "README.md",
     "UE5_DynamicSynth/Saved/FMSynthSequencerInit785786DA1B46771C68B51FB0BE5A04AE.tmp",
     "UE5_DynamicSynth/Saved/Autosaves/Game/Synths/FMSynthSequencerInit_Auto1.uasset",
     "UE5_DynamicSynth/Saved/FMSynthSequencerInit_Auto1943DDC92BF47E9788C861C900F6A12CE.tmp",
@@ -168,19 +166,9 @@
     "UE5_DynamicSynth/Content/Levels/_GENERATED/austintecks/Stairs_8E6EB4A4.uasset",
     "UE5_DynamicSynth/Content/Levels/_GENERATED/austintecks",
     "UE5_DynamicSynth/Content/Levels/_GENERATED",
-    "Screenshots/HHOperatorGraph.png",
     "Screenshots/Screenshot 2024-02-22 at 12.37.53 PM.png",
     "UE5_DynamicSynth/Content/Synths/Patches/HHOperator.uasset",
     "UE5_DynamicSynth/Saved/HHPresetEB1DB61AFF463A1D4265D6AD93650C7E.tmp",
-    "Screenshots/KickOperatorGraph.png",
-    "Screenshots/Screenshot 2024-02-22 at 12.33.57 PM.png",
-    "UE5_DynamicSynth/Saved/Autosaves/Game/Synths/Patches/KickOperator_Auto1.uasset",
-    "Screenshots/Screenshot 2024-02-22 at 12.33.11 PM.png",
-    "Screenshots/FM Algo - Sheet1.png",
-    "Screenshots/SequencerGraph.png",
-    "Screenshots/Sequencer.png",
-    "Screenshots/OperatorGraph.png",
-    "Screenshots/OpInputs.png",
-    "Screenshots"
+    "UE5_DynamicSynth/Saved/Autosaves/Game/Synths/Patches/KickOperator_Auto1.uasset"
   ]
 }
