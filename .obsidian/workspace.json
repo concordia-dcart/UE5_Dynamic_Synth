@@ -149,6 +149,17 @@
   },
   "active": "9afe60d18ea67a2e",
   "lastOpenFiles": [
+    "UE5_DynamicSynth/Saved/DynamicSpeed86BDC47C6743FC55A15B24AD1FAAF83A.tmp",
+    "UE5_DynamicSynth/Saved/VariSpeedSampler6F02AACCF344E43312A0FEACDD2B6858.tmp",
+    "UE5_DynamicSynth/Saved/VariSpeedSamplerE6788CAA74442714D78FB28A1EB86786.tmp",
+    "UE5_DynamicSynth/Saved/DynamicSpeed8D8638EB60453D2820FF3D9BFA2EC278.tmp",
+    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/KickOperator.uasset",
+    "UE5_DynamicSynth/Content/Synths/SubPatches/Sequencers/Sequencer.uasset",
+    "UE5_DynamicSynth/Content/Synths/SubPatches/Sequencers",
+    "UE5_DynamicSynth/Saved/SequencerAB3D0146CA45EDD2DE1EFFBF654EB9D2.tmp",
+    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/HHOperator.uasset",
+    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/FMOperator.uasset",
+    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators",
     "Screenshots/KickOperatorGraph.png",
     "README.md",
     "Screenshots/HHOperatorGraph.png",
@@ -159,16 +170,6 @@
     "Screenshots/OperatorGraph.png",
     "Screenshots/ModMixerInputs.png",
     "Screenshots/FMSynthSequencerFull.png",
-    "Screenshots/FMSynth.png",
-    "UE5_DynamicSynth/Saved/FMSynthSequencerInit785786DA1B46771C68B51FB0BE5A04AE.tmp",
-    "UE5_DynamicSynth/Saved/Autosaves/Game/Synths/FMSynthSequencerInit_Auto1.uasset",
-    "UE5_DynamicSynth/Saved/FMSynthSequencerInit_Auto1943DDC92BF47E9788C861C900F6A12CE.tmp",
-    "UE5_DynamicSynth/Saved/Autosaves/Game/Synths/Patches/FMOperator_Auto1.uasset",
-    "UE5_DynamicSynth/Content/Levels/_GENERATED/austintecks/Stairs_8E6EB4A4.uasset",
-    "UE5_DynamicSynth/Content/Levels/_GENERATED/austintecks",
-    "UE5_DynamicSynth/Content/Levels/_GENERATED",
-    "UE5_DynamicSynth/Content/Synths/Patches/HHOperator.uasset",
-    "UE5_DynamicSynth/Saved/HHPresetEB1DB61AFF463A1D4265D6AD93650C7E.tmp",
-    "UE5_DynamicSynth/Saved/Autosaves/Game/Synths/Patches/KickOperator_Auto1.uasset"
+    "Screenshots/FMSynth.png"
   ]
 }
