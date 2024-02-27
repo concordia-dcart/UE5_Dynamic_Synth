@@ -149,6 +149,9 @@
   },
   "active": "9afe60d18ea67a2e",
   "lastOpenFiles": [
+    "Screenshots/VariSpeedSampler.png",
+    "Screenshots/DynamicSpeedRampLevelBP.png",
+    "Screenshots/DynamicSpeedLevelBP.png",
     "UE5_DynamicSynth/Saved/DynamicSpeed86BDC47C6743FC55A15B24AD1FAAF83A.tmp",
     "UE5_DynamicSynth/Saved/VariSpeedSampler6F02AACCF344E43312A0FEACDD2B6858.tmp",
     "UE5_DynamicSynth/Saved/VariSpeedSamplerE6788CAA74442714D78FB28A1EB86786.tmp",
@@ -159,7 +162,6 @@
     "UE5_DynamicSynth/Saved/SequencerAB3D0146CA45EDD2DE1EFFBF654EB9D2.tmp",
     "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/HHOperator.uasset",
     "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/FMOperator.uasset",
-    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators",
     "Screenshots/KickOperatorGraph.png",
     "README.md",
     "Screenshots/HHOperatorGraph.png",
@@ -168,8 +170,6 @@
     "Screenshots/Sequencer.png",
     "Screenshots/OpInputs.png",
     "Screenshots/OperatorGraph.png",
-    "Screenshots/ModMixerInputs.png",
-    "Screenshots/FMSynthSequencerFull.png",
-    "Screenshots/FMSynth.png"
+    "Screenshots/ModMixerInputs.png"
   ]
 }
