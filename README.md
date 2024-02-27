@@ -3,32 +3,34 @@
 # FM Synth/Sequencer
 
 ## Main Synth/Sequencer MetaSound
-![[FMSynthSequencerFull.png]]### FM Synth
+![FMSynthSequencerFull](./Screenshots/FMSynthSequencerFull)
+
+### FM Synth
 
 ### Operator Parameter Input
 
-![[OpInputs.png]]
+![OpInputs](./Screenshots/OpInputs.png)
 
 ### ModMatrix Inputs
 
-![[ModMixerInputs.png]]
+![ModMixerInputs](./Screenshots/ModMixerInputs.png)
 
 ### Algorithm Cheat Sheet
 
-![[FM Algo - Sheet1.png]]
+![FM Algo - Sheet1](./Screenshots/FM Algo - Sheet1.png)
 
 ### Output
 
-![[FMSynth.png]]
+![FMSynth](./Screenshots/FMSynth.png)
 
 ### FM Operator Graph
-![[OperatorGraph.png]]
+![OperatorGraph](./Screenshots/OperatorGraph.png)
 
 ### Sequencer Input
-![[Sequencer.png]]
+![Sequencer](./Screenshots/Sequencer.png)
 
 Sequencer Graph
-![[SequencerGraph.png]]
+![SequencerGraph](./Screenshots/SequencerGraph.png)
 
 ## Specialized Operators
 
@@ -36,4 +38,4 @@ Sequencer Graph
 ![Kick Operator](./Screenshots/KickOperatorGraph.png)
 
 ### HH Operator
-![[HHOperatorGraph.png]]
+![HHOperatorGraph](./Screenshots/HHOperatorGraph.png)
