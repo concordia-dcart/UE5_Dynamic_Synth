@@ -3,7 +3,7 @@
 # FM Synth/Sequencer
 
 ## Main Synth/Sequencer MetaSound
-![FMSynthSequencerFull](./Screenshots/FMSynthSequencerFull)
+![FMSynthSequencerFull](./Screenshots/FMSynthSequencerFull.png)
 
 ### FM Synth
 
@@ -17,7 +17,7 @@
 
 ### Algorithm Cheat Sheet
 
-![FM Algo - Sheet1](./Screenshots/FM Algo - Sheet1.png)
+![FM Algo - Sheet1](./Screenshots/FMAlgo.png)
 
 ### Output
 
