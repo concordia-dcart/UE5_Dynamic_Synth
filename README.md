@@ -1,6 +1,9 @@
 # UE5_Dynamic_Synth
 
-A collection of modular sound devices and interactive systems built in and around MetaSounds in Unreal Engine 5.1+. Levels are designed to demonstrate different methods of interaction.
+A collection of modular sound devices and interactive systems built in and around MetaSounds in Unreal Engine 5.1. Levels are designed to demonstrate different methods of interaction.
+
+### System requirements: UE 5.1+
+
 # Sound Devices
 All sound devices can be accessed UE5_DynamicSynth/Content/Synths
 ## Main Synth/Sequencer MetaSound
