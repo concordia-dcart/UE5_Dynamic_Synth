@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/UE5_DynamicSynth/Saved/Autosaves
+/UE5_DynamicSynth/Saved/Cooked
+/UE5_DynamicSynth/Saved/Crashes
+/UE5_DynamicSynth/Saved/Shaders
+/UE5_DynamicSynth/Saved/StagedBuilds
+/UE5_DynamicSynth/Saved/webcache_4430
+/UE5_DynamicSynth/Intermediate
+/UE5_DynamicSynth/Binaries
