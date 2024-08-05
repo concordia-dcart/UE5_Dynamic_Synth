@@ -7,17 +7,17 @@ A collection of modular sound devices and interactive systems built in and aroun
 # Sound Modules
 All sound devices can be accessed UE5_DynamicSynth/Content/Synths
 ## Main Synth/Sequencer MetaSound
-
+A MetaSound source combining a 8-step sequencer with a 4-operator FM synth. This MetaSound source is designed to allow for experimentation within the patch as well through blueprints outside of the patch.
 ![FMSynthSequencerFull](./Screenshots/FMSynthSequencerFull.png)
 
 ### FM Synth
-
+A 4-operator FM Synth with a comprehensive mod matrix. Pre-loaded with traditional sine-wave oscillators, the operators can be substituted with specialized percussive operators.
 ### Operator Parameter Input
 
 ![OpInputs](./Screenshots/OpInputs.png)
 
 ### ModMatrix Inputs
-
+While the interface offers continuous control over modulation amplitude, it is recommended that users set the index to either 0.0 or 1.0. To adjust the amplitude of a given operator, use the parameter exposed within the "Op# Parameter" window.
 ![ModMixerInputs](./Screenshots/ModMixerInputs.png)
 
 ### Algorithm Cheat Sheet
