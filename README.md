@@ -4,7 +4,7 @@ A collection of modular sound devices and interactive systems built in and aroun
 
 ### System requirements: UE 5.1+
 
-# Sound Devices
+# Sound Modules
 All sound devices can be accessed UE5_DynamicSynth/Content/Synths
 ## Main Synth/Sequencer MetaSound
 
@@ -51,24 +51,23 @@ A workaround for implementing a sampler that can alter the pitch or timing of a 
 ![VariSpeedSampler](./Screenshots/VariSpeedSampler.png)
 
 # Levels
-All interactions described below are contained within level Blueprints
+All interactions described below are contained within level Blueprints. These levels have been designed to clearly illustrate a simple implementation of a dynamic audio system using the sound modules included in the project.
 ## DynamicSynth
 
-The player can initiate 3 sequences built in Metasounds by colliding with trigger volumes. The Kick trigger volume initializes the Kick sequence as well as the Quartz clock, therefore the global sequence only begins when the player has collided with this particular volume.
+DynamicSynth illustrates a use case for the Quartz Clock. Quartz is initiated at BeginPlay. The player can arm/play and pause 3 Quartz synchronized sequences: Kick, HH and Bass.
 
-All three sequences are quantized according to the main quartz clock. Subsequently, the Bass and HH sequence can be armed at any time, but will only begin playing at the beginning of a bar (relative to the transport).
-
-A fourth trigger volume initiates a global change in tempo.
+Upon colliding with one of the three cubes, the sequence is armed and will begin playing at the onset of the next measure.
 
 ## DynamicSpeed
 
-The player's distance from a cube at a far corner of the map determines the tempo of the looping sample. This level employs the time warping workaround built into the VariSynthSampler. Currently, the base tempo of the sample is set manually, but in the future BPM could be included in the metadata of the sample so that the base BPM can be determined procedurally.
+The player's distance from a cube at the far end of the map determines the tempo of the looping sample. This level employs the time warping workaround built into the VariSynthSampler. Currently, the base tempo of the sample is set manually, but in the future BPM could be included in the metadata of the sample so that the base BPM can be determined procedurally.
 
 A secondary interaction has been added to this level, the players Y position is linked to the cuttoff frequency of the looping sample.
 
 # DynamicSpeedRamp
 
-Similar to DynamicSpeed, DynamicSpeedRamp allows the player to initialize speed ramps by colliding with trigger volumes.
+Similar to DynamicSpeed, DynamicSpeedRamp allows the player to initialize speed ramps by colliding with trigger volumes. Upon collision with a trigger volume, the BPM of the loop ramps up or down until reaching its determined limit.
 
+# DynamicFilter
 
-
+The players position along the Z axis is mapped to the cutoff frequency of a LP filter affecting the audio loop.

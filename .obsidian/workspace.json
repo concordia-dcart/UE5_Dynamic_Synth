@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec3a9c2accd21709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blenderKeyboardShortcuts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "blenderKeyboardShortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "blenderKeyboardShortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "blenderKeyboardShortcuts.md"
               }
             }
           }
@@ -147,29 +160,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9afe60d18ea67a2e",
+  "active": "ec3a9c2accd21709",
   "lastOpenFiles": [
+    "README.md",
+    "blenderKeyboardShortcuts.md",
+    "UE5_DynamicSynth/Saved/Cooked/Windows/UE5_DynamicSynth/Metadata/scriptobjects.bin",
+    "UE5_DynamicSynth/Saved/Cooked/Windows/UE5_DynamicSynth/Metadata/CookedSettings.txt",
+    "UE5_DynamicSynth/Saved/Cooked/Windows/UE5_DynamicSynth/Metadata",
+    "UE5_DynamicSynth/Saved/Cooked/Windows/UE5_DynamicSynth",
+    "UE5_DynamicSynth/Saved/Cooked/Windows",
+    "UE5_DynamicSynth/Saved/Cooked",
+    "UE5_DynamicSynth/Saved/Config/CrashReportClient/UECC-Windows-6FA52B8A4BE368FD5682359786ECF588/CrashReportClient.ini",
+    "UE5_DynamicSynth/Saved/Config/CrashReportClient/UECC-Windows-6FA52B8A4BE368FD5682359786ECF588",
+    "UE5_DynamicSynth/Saved/DynamicSynth_1082759464ADEE50966A9A39C2217BDBF.tmp",
+    "UE5_DynamicSynth/Saved/DynamicSynth_1E8B5EDF14413326BDDC76A8CD57D583F.tmp",
     "Screenshots/VariSpeedSampler.png",
     "Screenshots/DynamicSpeedRampLevelBP.png",
     "Screenshots/DynamicSpeedLevelBP.png",
-    "UE5_DynamicSynth/Saved/DynamicSpeed86BDC47C6743FC55A15B24AD1FAAF83A.tmp",
-    "UE5_DynamicSynth/Saved/VariSpeedSampler6F02AACCF344E43312A0FEACDD2B6858.tmp",
-    "UE5_DynamicSynth/Saved/VariSpeedSamplerE6788CAA74442714D78FB28A1EB86786.tmp",
-    "UE5_DynamicSynth/Saved/DynamicSpeed8D8638EB60453D2820FF3D9BFA2EC278.tmp",
-    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/KickOperator.uasset",
-    "UE5_DynamicSynth/Content/Synths/SubPatches/Sequencers/Sequencer.uasset",
-    "UE5_DynamicSynth/Content/Synths/SubPatches/Sequencers",
-    "UE5_DynamicSynth/Saved/SequencerAB3D0146CA45EDD2DE1EFFBF654EB9D2.tmp",
-    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/HHOperator.uasset",
-    "UE5_DynamicSynth/Content/Synths/SubPatches/Operators/FMOperator.uasset",
     "Screenshots/KickOperatorGraph.png",
-    "README.md",
     "Screenshots/HHOperatorGraph.png",
     "Screenshots/FM Algo - Sheet1.png",
     "Screenshots/SequencerGraph.png",
     "Screenshots/Sequencer.png",
     "Screenshots/OpInputs.png",
-    "Screenshots/OperatorGraph.png",
-    "Screenshots/ModMixerInputs.png"
+    "Screenshots/OperatorGraph.png"
   ]
 }
