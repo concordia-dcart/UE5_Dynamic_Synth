@@ -7,7 +7,7 @@ A collection of modular sound devices and interactive systems built in and aroun
 # Sound Modules
 All sound devices can be accessed UE5_DynamicSynth/Content/Synths
 ## Main Synth/Sequencer MetaSound
-A MetaSound source combining a 8-nstep sequencer with a 4-operator FM synth. This MetaSound source is designed to allow for experimentation within the patch as wndrough blueprints outside of the patch.
+A MetaSound source combines an 8-step sequencer with a 4-operator FM synth. This MetaSound source allows for experimentation within the patch as well as through blueprints outside the patch.
 ![FMSynthSequencerFull](./Screenshots/FMSynthSequencerFull.png)
 
 ### FM Synth
